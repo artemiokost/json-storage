@@ -1,0 +1,81 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "ycUHhLvUmVzbBpeJdgb8Ne-cej4",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "TLc4ZBxmxWQZhTQk40dwPwr_qSk",
+      "id": "sAucF-Jlboo",
+      "snippet": {
+        "publishedAt": "2024-02-03T16:06:27Z",
+        "channelId": "UC3nsS1zgb4Jye9kmA45K6Yg",
+        "title": "AFC Asian Cup 2023 Quarter-Final : Iran 2 - 1 Japan  | Astro SuperSport",
+        "description": "Layan semua sukan di sooka: https://s.sooka.my/zkV6rf\n\nStadium Astro on Social Media:\n► Follow on Twitter: http://www.twitter.com/stadiumastro\n► Like on Facebook: http://www.facebook.com/stadiumastro\n► Follow on Instagram: http://www.instagram.com/stadium.astro\n► Telegram: https://t.me/stadiumastro\n► TikTok: https://www.tiktok.com/@stadium.astro\n\nIngat sukan, ingat sooka! Download sooka sekarang dan sapot team feveret korang!\n📱 App Store: https://s.sooka.my/sbhAY8\n📱 Play Store: https://s.sooka.my/9FClb7\n\nSosial sooka\nTwitter: https://s.sooka.my/FHDvSp\nFacebook: https://s.sooka.my/ItutEk\nInstagram: https://s.sooka.my/ObJ2K3\nTikTok: https://s.sooka.my/kh2lvI\nYouTube: https://s.sooka.my/KJ1S7U",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sAucF-Jlboo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sAucF-Jlboo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAucF-Jlboo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sAucF-Jlboo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sAucF-Jlboo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Stadium Astro",
+        "tags": [
+          "Stadium Astro",
+          "Sports",
+          "Astro"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "AFC Asian Cup 2023 Quarter-Final : Iran 2 - 1 Japan  | Astro SuperSport",
+          "description": "Layan semua sukan di sooka: https://s.sooka.my/zkV6rf\n\nStadium Astro on Social Media:\n► Follow on Twitter: http://www.twitter.com/stadiumastro\n► Like on Facebook: http://www.facebook.com/stadiumastro\n► Follow on Instagram: http://www.instagram.com/stadium.astro\n► Telegram: https://t.me/stadiumastro\n► TikTok: https://www.tiktok.com/@stadium.astro\n\nIngat sukan, ingat sooka! Download sooka sekarang dan sapot team feveret korang!\n📱 App Store: https://s.sooka.my/sbhAY8\n📱 Play Store: https://s.sooka.my/9FClb7\n\nSosial sooka\nTwitter: https://s.sooka.my/FHDvSp\nFacebook: https://s.sooka.my/ItutEk\nInstagram: https://s.sooka.my/ObJ2K3\nTikTok: https://s.sooka.my/kh2lvI\nYouTube: https://s.sooka.my/KJ1S7U"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "MY"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "285299",
+        "likeCount": "3635",
+        "favoriteCount": "0",
+        "commentCount": "894"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
